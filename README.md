@@ -21,3 +21,5 @@ DELETE FROM products WHERE id = 1;
 DELETE FROM products WHERE id IN(1,2);
 
 ALTER TABLE products RENAME COLUMN product_name to name;
+
+https://learnsql.com/blog/postgresql-cheat-sheet/postgresql-cheat-sheet-letter.pdf
